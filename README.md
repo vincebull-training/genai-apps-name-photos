@@ -1,5 +1,5 @@
 # Initialiser l'environnement Python dans cloud IDE
 
 - Cloner le dépôt
-- cd gen[tab]
-- source set[tab]
+- cd genai-apps-name-photos/
+- source setup_git.sh
